@@ -1,0 +1,16 @@
+Total file size: 921654 bytes
+Total blocks: 57600
+Unique blocks: 1926
+Repeated block types: 80
+
+Most common blocks:
+4a099588bb01ee6126d1ec5b9160995c -> 50217 occurrences
+3576866e767ed7d6f3ee9dd67bdd83e3 -> 2828 occurrences
+3576866e767ed7d6f3ee2341316265f6 -> 134 occurrences
+a2eaeff497ca0d3b72feec5b9160995c -> 134 occurrences
+83f2bd1625afd161debc9dd67bdd83e3 -> 130 occurrences
+4a099588bb01ee6126d10b55e2ae8bff -> 129 occurrences
+fcd8ccc25f8ee40fba326da11cdd09cb -> 129 occurrences
+3576866e767ed7d6f3eee5d5d68266bf -> 129 occurrences
+59c3e47338261c6725e3ec5b9160995c -> 129 occurrences
+3576866e767ed7d6f3eefe86afddf6ba -> 128 occurrences
